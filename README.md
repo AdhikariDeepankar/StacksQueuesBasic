@@ -36,7 +36,7 @@ sequence
 
 Query I: integer operator
 Max 20 operators.
-# used to mark the end of query. Ignore any symbol after #
+/# used to mark the end of query. Ignore any symbol after #
 Integers range : 0 to 1000
 No brackets etc. No operators other than what mentioned below would be considered valid.
 Operands and Operators are single-space separated. Some operators may consist of two characters e.g. >>
@@ -47,7 +47,7 @@ Quotes
 Query E: integer operator
 Max 20 operators.
 OPERATORS , Their associativity in the code
-# used to mark the end of query. Ignore any symbol after #
+/# used to mark the end of query. Ignore any symbol after #
 Integers range : 0 to 1000
 No brackets etc. No operators other than what mentioned below would be considered valid.
 
